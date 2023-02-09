@@ -7,3 +7,12 @@ img{
     display: block;
    
 }
+:root{
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+.header-text{
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@300&display=swap');

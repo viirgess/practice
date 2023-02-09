@@ -1,0 +1,33 @@
+header{
+    background-image: url(../img/back-header.png);
+    background-size: cover;
+  height: max-content;
+  justify-content: center;
+  
+}
+.main-text{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 60px;
+    font-style: normal;
+    color: #fff;
+    text-align: left;
+    text-transform: none;
+    line-height: 66px;
+}
+.header-nav{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+
+}
+.header-text{
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    color: #fff;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1.8px;
+    line-height: 28.8px;
+    
+}
