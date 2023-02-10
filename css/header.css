@@ -18,6 +18,7 @@ header{
     display: flex;
     flex-direction: row;
     flex: 1;
+    position: right;
 
 }
 .header-text{
@@ -28,6 +29,20 @@ header{
     font-style: normal;
     font-weight: 400;
     letter-spacing: 1.8px;
-    line-height: 28.8px;
-    
+    line-height: 28.8px; 
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex: 1;
+}
+.header-logo{
+    width:60;
+    height:auto;
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    border: 20px;
+    font-size: 40px;
 }

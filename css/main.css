@@ -1,0 +1,32 @@
+.preview{
+    background-color: #212736;
+}
+.introduction{
+    background-color: #212736;
+}
+.parties{
+    background-color: #212736;
+}
+.tickets{
+    background-color: #212736;  
+}
+.gallery{
+    background-color: #212736;
+}
+.magazine{
+    background-image: url(../img/back-dance.png);
+    background-size: cover;
+}
+.team{
+    background-color: #212736;
+}
+.news{
+    background-color: #212736;
+}
+.events-tickects{
+    background-color: #212736;
+}
+.sponsors{
+    background-image: url(../img/sponsors-back.png);
+    background-size: cover;
+}
