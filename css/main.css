@@ -1,32 +1,35 @@
-.preview{
+.preview {
     background-color: #212736;
 }
-.introduction{
+
+.introduction {
     background-color: #212736;
 }
-.parties{
+.parties {
     background-color: #212736;
 }
-.tickets{
+.tickets {
     background-color: #212736;  
 }
-.gallery{
+.gallery {
     background-color: #212736;
 }
-.magazine{
+.magazine {
     background-image: url(../img/back-dance.png);
     background-size: cover;
+    background-position: center;
 }
-.team{
+.team {
     background-color: #212736;
 }
-.news{
+.news {
     background-color: #212736;
 }
-.events-tickects{
+.events-tickects {
     background-color: #212736;
 }
-.sponsors{
+.sponsors {
     background-image: url(../img/sponsors-back.png);
     background-size: cover;
+    background-position: center;
 }

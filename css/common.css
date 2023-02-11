@@ -1,19 +1,27 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@300&display=swap');
+* {
     margin: 0;
     padding: 0;
+    border: 0;
     box-sizing: border-box;
 }
-img{
+img {
     display: block;
    
 }
-:root{
+:root {
     font-size: 16px;
     scroll-behavior: smooth;
     color: #FFFFFF;
 }
-.header-text{
-
+@media (min-width:375){ 
+    .header-nav {
+        display: flex;
+        flex-direction: row;
+        flex: 1;
+        justify-content: right;
+        font-size: 22px;
+        justify-content: space-around;
+    }
 }
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@300&display=swap');
