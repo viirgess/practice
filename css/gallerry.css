@@ -1,0 +1,51 @@
+.gallery {
+    background: linear-gradient(to top,  #16171F,#301d55 );
+}
+.gallery-top {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.gallery_title {
+    font-family: 'Abril Fatface', cursive;
+    color: #FFFFFF;
+    font-size: 60px;
+    line-height: 72px;
+    text-align: center;
+}
+.gallery_text {
+    font-family: 'Lato', sans-serif;
+    color: rgb(169, 191, 211);
+    font-size: 18px;
+    letter-spacing: 1.8px;
+    line-height: 28.8px;
+    text-align: left;
+}
+.text_g_span {
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: right;
+}
+.number_g_span {
+    font-family: 'Lato', sans-serif;
+        color: #be61b9;
+        font-size: 16px;
+        line-height: 25.6px;
+        text-align: right;
+}
+.gallery_span {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.carusel_gallery {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.coursel_g_item {
+    width: 350px;
+    height: 350px;
+}

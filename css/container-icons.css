@@ -1,0 +1,106 @@
+.container-icons {
+background-color: #16171F;
+color: rgba(255, 255, 255, 0.66);
+margin: 0;
+display: flex;
+flex-direction: row;
+flex: 1;
+padding: 150px;
+}
+.listen{
+   background-color: #16171F;
+    color: rgba(255, 255, 255, 0.66);
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.dance {
+    background-color: #16171F;
+    color: rgba(255, 255, 255, 0.66);
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.meet {
+    background-color: #16171F;
+    color: rgba(255, 255, 255, 0.66);
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    }
+    .parag-listen {
+        text-align: left;
+    }
+    .parag-dance {
+        text-align: left;
+    }
+    .parag-meet {
+        text-align: left;
+    }
+.listen-title {
+font-family: 'Abril Fatface';
+font-size: 24px;
+color: #FFFFFF;
+letter-spacing: 0.72px;
+line-height: 43.2px;
+text-align: left;
+}
+.dance-title {
+font-family: 'Abril Fatface';
+font-size: 24px;
+color: #FFFFFF;
+letter-spacing: 0.72px;
+line-height: 43.2px;
+text-align: left;
+}
+.meet-title {
+    font-family: 'Abril Fatface';
+    font-size: 24px;
+    color: #FFFFFF;
+    letter-spacing: 0.72px;
+    line-height: 43.2px;
+    text-align: left;
+}
+.text-listen {
+    font-family: 'Lato' sans-serif;
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: left;
+    letter-spacing: normal;
+}
+.text-dance {
+    font-family: 'Lato' sans-serif;
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: left;
+    letter-spacing: normal;
+}
+.text-meet {
+    font-family: 'Lato' sans-serif;
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: left;
+    letter-spacing: normal;
+}
+.listen-icon {
+    width: 69.641px;
+    height: 70px;
+}
+.parag-listen {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.parag-dance {
+    padding-left: 20px;
+        padding-right: 10px;
+}
+.parag-meet {
+    padding-left: 20px;
+        padding-right: 10px;
+}

@@ -1,0 +1,9 @@
+.magazine {
+    background-image: url(../img/back-dance.png);
+    background-size: cover;
+    background-position: center;
+}
+.magazine_img_item {
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,58 @@
+.parties-title {
+    text-align: center;
+    background-color: #16171F;
+}
+.container-parties {
+    margin: 0;
+}
+.party-h {
+    font-family: 'Abril Fatface', cursive;
+    color: #FFFFFF;
+    font-size: 60px;
+    font-weight: normal;
+    line-height: 72px;
+    overflow-wrap: break-word;
+    text-align: center;
+    vertical-align: baseline;
+}
+.party-paragraf {
+    font-family: 'Lato', sans-serif;
+    color: rgb(169, 191, 211);
+    font-size: 18px;
+    letter-spacing: 1.8px;
+    line-height: 28.8px;
+    overflow-wrap: break-word;
+    text-align: center;
+    vertical-align: baseline;
+    white-space: pre-wrap;
+    margin: 0;
+}
+.coursel {
+background-color: #16171F;
+margin: 0;
+display: flex;
+flex-direction: row;
+flex: 1;
+}
+.coursel-title {
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 28px;
+    overflow-wrap: break-word;
+    text-align: left;
+}
+.coursel-text {
+    font-family: 'Lato', sans-serif;
+    color: rgba(255, 255, 255, 0.72);
+    font-size: 16px;
+    line-height: 25.6px;
+    text-align: left;
+}
+.coursel-img {
+    width: 354px;
+}
+.coursel-item {
+    display: flex;
+    flex-direction: column;
+}
