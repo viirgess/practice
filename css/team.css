@@ -1,0 +1,66 @@
+.container_team {
+    background: linear-gradient(to top, #301d55,#161721 );
+}
+.team_prewiev {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    text-align: left;
+    padding: 40px;
+}
+.team_title {
+    font-family: 'Abril Fatface', cursive;
+    color: #FFFFFF;
+    font-size: 60px;
+    line-height: 60px;
+    text-align: left;
+}
+.team_text {
+    font-family: 'Lato', sans-serif;
+    color: rgb(169, 191, 211);
+    font-size: 18px;
+    letter-spacing: 1.8px;
+    line-height: 28.8px;
+    text-align: left;
+}
+.team_cards {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.team_card_title {
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: left;
+}
+.team_card_item {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.team_date_item {
+    font-family: 'Lato', sans-serif;
+    color: rgb(169, 191, 211);
+    font-size: 14px;
+    line-height: 23.8px;
+    text-align: left;
+}
+.team_card_text {
+    font-family: 'Lato', sans-serif;
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 17px;
+    line-height: 27.2px;
+    text-align: left;
+}
+.team_card_item {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+.team_card_text {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}

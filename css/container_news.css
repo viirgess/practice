@@ -1,0 +1,16 @@
+.container_news {
+background: linear-gradient(to top, #16171F, #301d55)
+}
+
+.container_news-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.news_title {
+    font-family: 'Abril Fatface',cursive;
+    color: #FFFFFF;
+    font-size: 60px;
+    line-height: 60px;
+    text-align: left;
+}
