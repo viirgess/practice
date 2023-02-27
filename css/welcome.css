@@ -2,7 +2,8 @@
     display: flex;
     flex-direction: row;
     flex: 1;
-    background-color: #16171F;;
+    background-color: #16171F;
+    padding-left: 200px;
 }
 .welcome-img {
     width: 545px;
@@ -35,4 +36,7 @@
 .welcome-info {
     padding: 100px;
     padding-right: 600px;
+}
+.welcome-button {
+    border: 3px solid #fff;;
 }

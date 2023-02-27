@@ -1,15 +1,17 @@
 .parties-title {
     text-align: center;
     background-color: #16171F;
+    padding-right: 200px;
 }
 .container-parties {
-    margin: 0px;
+   margin: 0%;
 }
 .party-h {
     font-family: 'Abril Fatface', cursive;
     color: #FFFFFF;
     font-size: 60px;
     text-align: center;
+    padding-top: 150px;
 }
 .party-paragraf {
     font-family: 'Lato', sans-serif;
@@ -49,4 +51,9 @@ flex: 1;
 .coursel-item {
     display: flex;
     flex-direction: column;
+}
+.coursel {
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 40px;
 }

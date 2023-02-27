@@ -7,6 +7,9 @@
     flex: 1;
     text-align: left;
     padding: 40px;
+    padding-top: 200px;
+    padding-left: 350px;
+
 }
 .team_title {
     font-family: 'Abril Fatface', cursive;
@@ -24,9 +27,9 @@
     text-align: left;
 }
 .team_cards {
-    display: flex;
-    flex-direction: row;
-    flex: 1;
+   
+    padding-left: 350px;
+    
 }
 .team_card_title {
     font-family: 'Lato', sans-serif;
@@ -63,4 +66,16 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+}
+.cards_first_block {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    margin: 20px;
+}
+.cards_second_block {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+   
 }

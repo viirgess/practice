@@ -8,6 +8,7 @@
     font-size: 60px;
     line-height: 72px;
     overflow-wrap: break-word;
+    padding-top: 200px;
 }
 .tickets-text {
     font-family: 'Lato', sans-serif;
@@ -20,6 +21,8 @@
     display: flex;
     flex-direction: row;
     flex: 1;
+    padding-left: 350px;
+    padding-right: 350px;
 }
 .tickets-item {
     display: flex;
@@ -42,5 +45,5 @@
     text-align: center;
 }
 .card-pic {
-    width: 100px;
+    width: 150px;
 }

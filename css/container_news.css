@@ -1,11 +1,14 @@
 .container_news {
-background: linear-gradient(to top, #16171F, #301d55)
+background: linear-gradient(to top, #16171F, #301d55);
 }
 
 .container_news-text {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
+    padding-top: 200px;
+    padding-left: 350px;
+    text-align: center;
 }
 .news_title {
     font-family: 'Abril Fatface',cursive;
@@ -13,4 +16,56 @@ background: linear-gradient(to top, #16171F, #301d55)
     font-size: 60px;
     line-height: 60px;
     text-align: left;
+}
+.news_text {
+    color: rgb(169,191,211);
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+.events-tickects {
+    background: linear-gradient(to top,#301d55, #16171F );
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.cards_-title {
+    color: rgb(169,191,211);
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+.cards_text {
+    color: #FFFFFF;
+    font-family: 'Abril Fatface';
+    font-size: 24px;
+}
+.cards_info {
+    color: #03c1cf;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+.tickets_first_block {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding-left: 350px;
+    padding-top: 40px;
+}
+.tickets_second_block {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding-left: 350px;
+    padding-top: 20px;
+}
+.cards_item {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding: 60px;
+}
+.cards_item_text {
+    display: flex;
+    flex-direction: column;
+    flex-direction: 1;
+    padding-left: 40px;
 }

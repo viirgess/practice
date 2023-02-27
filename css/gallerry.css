@@ -49,3 +49,15 @@
     width: 350px;
     height: 350px;
 }
+.gallery_title_text {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding-top: 200px;
+    padding-left: 350px;
+    justify-content: space-between;
+}
+.carusel_gallery {
+    padding-left: 350px;
+    padding-right: 350px;
+}
